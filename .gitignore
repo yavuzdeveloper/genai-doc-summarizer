@@ -1,0 +1,14 @@
+# Python virtual environments
+src/backend/venv/
+src/frontend/node_modules/
+
+# Environment variables
+.env
+
+# Byte-compiled files
+*.pyc
+__pycache__/
+
+# IDE ve sistem dosyaları
+.vscode/
+.DS_Store
